@@ -2,7 +2,7 @@
 .navigation-wrapper{
     height: 190px;
     background-color:  #ffcccc;
-    color: #cbcbcb;
+    color: #737373;
     /* flexbox container */
     display: flex;
     justify-content: space-around;
